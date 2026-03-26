@@ -51,3 +51,7 @@ end tell
 ```
 
 This will automatically update your OBS configuration and start the virtual camera with a new, randomly selected background video.
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://darren-static.waft.dev) - free to use and modify, but no commercial use without permission.
